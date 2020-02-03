@@ -1,3 +1,0 @@
-# RoadMapService
-
-Basic java service
